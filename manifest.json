@@ -1,0 +1,100 @@
+{
+  "manifest_version": 3,
+  "name": "Beige & Dark Teal",
+  "version": "1.0.5",
+  "description": "Recreated from your reference photos: warm beige toolbar and selected tab, nearly black teal tab strip.",
+  "theme": {
+    "colors": {
+      "frame": [
+        15,
+        33,
+        39
+      ],
+      "frame_inactive": [
+        25,
+        43,
+        49
+      ],
+      "background_tab": [
+        15,
+        33,
+        39
+      ],
+      "background_tab_inactive": [
+        25,
+        43,
+        49
+      ],
+      "toolbar": [
+        225,
+        225,
+        225
+      ],
+      "tab_text": [
+        35,
+        40,
+        41
+      ],
+      "bookmark_text": [
+        35,
+        40,
+        41
+      ],
+      "toolbar_text": [
+        35,
+        40,
+        41
+      ],
+      "omnibox_background": [
+        255,
+        255,
+        255
+      ],
+      "omnibox_text": [
+        35,
+        40,
+        41
+      ],
+      "ntp_background": [
+        255,
+        255,
+        255
+      ],
+      "ntp_text": [
+        35,
+        40,
+        41
+      ],
+      "ntp_link": [
+        35,
+        70,
+        80
+      ],
+      "button_background": [
+        245,
+        239,
+        222
+      ],
+      "tab_background_text": [
+        229,
+        229,
+        218
+      ],
+      "tab_background_text_inactive": [
+        205,
+        207,
+        200
+      ]
+    },
+    "tints": {
+      "buttons": [
+        -1,
+        0,
+        0.28
+      ]
+    },
+    "images": {
+      "theme_toolbar": "toolbar.png"
+    }
+  }
+}
